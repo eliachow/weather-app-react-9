@@ -1,0 +1,33 @@
+#current-weather-icon {
+  padding: 50px 70px;
+}
+
+#current-weather-degrees {
+  font-size: 40px;
+  padding: 0 0 0 30px;
+}
+
+#current-weather-description {
+  font-size: 20px;
+  padding: 0 0 0 30px;
+}
+
+#c-temp:hover {
+  cursor: pointer;
+  color: white;
+}
+
+#f-temp:hover {
+  cursor: pointer;
+  color: white;
+}
+
+#humidity {
+  font-size: 20px;
+  padding: 0 0 0 30px;
+}
+
+#wind {
+  font-size: 20px;
+  padding: 0 0 0 30px;
+}
