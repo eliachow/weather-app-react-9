@@ -15,9 +15,10 @@ export default function WeatherData() {
           <strong id="current-degrees">{weatherInfo.temp}</strong>
           <small id="units">
             <a id="c-temp" href="/">
-              ᵒC
+              {" "}
+              ᵒC{" "}
             </a>
-            |
+            |{" "}
             <a id="f-temp" href="/">
               ᵒF
             </a>
