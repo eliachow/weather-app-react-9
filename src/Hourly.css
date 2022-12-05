@@ -1,0 +1,12 @@
+#hourly-icon {
+  max-width: 60px;
+}
+
+.hourly-forecast-all {
+  text-align: center;
+  padding: 0 0 0 70px;
+}
+
+.hourly-forecast-header {
+  text-align: left;
+}
