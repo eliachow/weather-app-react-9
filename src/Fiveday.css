@@ -1,0 +1,25 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li.card {
+  margin: 30px 0;
+  padding: 3px;
+  text-align: center;
+  background-color: #f0e5d8;
+}
+
+img {
+  max-width: 60px;
+}
+
+#forecast-info {
+  color: #18cfcf;
+  font-size: 20px;
+  font-family: "Righteous", cursive;
+}
+
+#forecast {
+  padding: 0px 0px 20px 70px;
+}
