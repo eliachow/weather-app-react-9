@@ -1,0 +1,17 @@
+.card {
+  margin: 5% auto 0 auto;
+  color: #18cfcf;
+  max-width: 1000px;
+  border-radius: 10px;
+}
+
+#card-body {
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  font-family: "Righteous", cursive;
+  color: #18cfcf;
+}
+
+.container {
+  margin: 20px auto;
+  border-radius: 25px;
+}
